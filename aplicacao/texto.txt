@@ -1,0 +1,3 @@
+1º paleta de cores (#B04E03, #FF8121, #FC7208, #009CB0, #08E0FC)
+2º editar cada parte do site (header, main e footer usando classes)
+3º 

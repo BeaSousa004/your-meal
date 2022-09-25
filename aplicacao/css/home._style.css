@@ -1,0 +1,29 @@
+:root{
+    --cor0:#B04E03; 
+    --cor1:#FF8121; 
+    --cor2: #FC7208; 
+    --cor3: #009CB0;
+    --cor4: #08E0FC; 
+}
+
+body, html{
+    margin: 0%;
+    height: auto;
+    width: auto;
+}
+
+body{
+    background-color: #FF8121;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    padding-top: 3%;
+}
+
+.img{
+    max-width: 200px; 
+    max-height: 150px; 
+}

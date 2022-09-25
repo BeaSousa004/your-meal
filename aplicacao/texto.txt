@@ -1,3 +1,18 @@
 1º paleta de cores (#B04E03, #FF8121, #FC7208, #009CB0, #08E0FC)
 2º editar cada parte do site (header, main e footer usando classes)
 3º 
+
+
+Logica da app: 
+    pág login-> se tiver conta entra na conta 
+                se não cria conta nova 
+                para criar conta nova clica na ligação e vai para a página registo
+    pág registo-> como não tem conta cria conta, quando a conta tiver criada volta á pág login faz o seu login e entra na aplicação
+    home page-> aparecem alguns dos pratos ou produtos que a empresa possui na sua ementa
+                caso o utilizador queira is para a página ementa, clica no devido icon e é dirigido para a respetiva; 
+                caso queira ir para a página das marcações, clica no devido icon e é dirigido para a respetiva; 
+                caso queira ir para a página do seu perfil, clica no devido icon e é dirigido page a respetiva; 
+    pág ementa-> na página ementa o utilizador consegue vizualizar e adicionar os produtos/refeições que dejesa ao seu pedido e no fim de escolher finaliza o seu pedido aonde é reencaminhado para a página das marcações;
+    pág marcações-> se já realizou pedido o utilizador consegue vizualizar o pedido e o seu valor depois é só finalizar pedido novamente. 
+                    se não realizou o seu pedido tem um ligação a propor ao utilizador que faça o seu pedido. 
+    pág perfil-> pode visualizar o seu perfil e altera-lo, tendo os seus dados pessoais na aplicação e os dados relacionados com a empresa. 
